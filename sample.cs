@@ -4,10 +4,9 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class sample: MonoBehaviour {
-    Text text;
 	// Use this for initialization
 	void Start () {
-        //Debug.Log("sample");
+        Debug.Log("sample");
     }
 	
 	// Update is called once per frame
